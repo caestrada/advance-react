@@ -1,9 +1,9 @@
-import List from './tutorial/05-leverage-javascript/starter/List.jsx';
+import Starter from './tutorial/07-useRef/starter/01-useRef-basics';
 
 function App() {
   return (
     <div className='container'>
-      <List />
+      <Starter />
     </div>
   );
 }
